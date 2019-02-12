@@ -1,3 +1,5 @@
 # hello-world
 new project
-hi my name is jeba 
+
+HI I AM JEBA
+I AM NEW TO GITHUB
